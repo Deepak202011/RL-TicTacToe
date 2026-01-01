@@ -2,12 +2,13 @@
 
 **🤖 Q-Learning AI • 95% Win Rate • Web App Deploying...**
 
-## 🎯 LIVE PLAY (Coming Soon)
-👉 **[Play vs AI]([https://your-app.streamlit.app](https://deepak202011-rl-tictactoe-app-cbw08s.streamlit.app/))** 
+## 🎯 LIVE PLAY 
+## **[Play vs AI]([https://your-app.streamlit.app](https://deepak202011-rl-tictactoe-app-cbw08s.streamlit.app/))** 
 
 ## 🚀 Quick Local Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
 
 
